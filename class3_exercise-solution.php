@@ -6,7 +6,7 @@
 	require('class3_logic-solution.php');
 	?>
 	
-	<link rel='stylesheet' href='day-night.css' type='text'>
+	<link rel='stylesheet' href='day-night.css' type='text/css'>
 	
 </head>
 
