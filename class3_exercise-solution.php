@@ -6,14 +6,13 @@
 	require('class3_logic-solution.php');
 	?>
 	
-	<link rel='stylesheet' href="day-night.css" type="text">
+	<link rel='stylesheet' href='day-night.css' type='text'>
 	
 </head>
 
-<body>
+<body class="<?=$class?>">
 
-
-
+	What time is it?
 
 </body>
 </html>
