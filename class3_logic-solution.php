@@ -3,9 +3,9 @@
 $hour = date('G');
 
 if($hour > 20 || $hour < 6) {
-	$color = 'black';
+	$class = 'night';
 }
 else {
-	$color = 'blue';
+	$class = 'day';
 }
 ?>
